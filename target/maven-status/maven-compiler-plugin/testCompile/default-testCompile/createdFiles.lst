@@ -1,0 +1,6 @@
+com\trying\serenity\DefinitionTestSuite.class
+com\trying\serenity\utils\CommonMethods.class
+com\trying\serenity\utils\TestUtil.class
+com\trying\serenity\steps\serenity\EnterDetails.class
+com\trying\serenity\steps\EnterDetailsSteps.class
+com\trying\serenity\pages\HomeScreen.class

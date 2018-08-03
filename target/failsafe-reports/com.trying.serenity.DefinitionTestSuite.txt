@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.trying.serenity.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.493 sec <<< FAILURE! - in com.trying.serenity.DefinitionTestSuite
+initializationError(com.trying.serenity.DefinitionTestSuite)  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: C:\Users\Srishti_Pant\eclipse-workspace\serenityTried2\src\test\resources\features\EnterDeatils.feature
+
